@@ -1,4 +1,4 @@
-# 🛡️ TruthLayer AI — Automated PDF Fact-Check Agent
+# 🛡️ FactLens AI — Automated PDF Fact-Check Agent
 
 An automated **Fact-Checking Web App** built with **Streamlit**, **Google Gemini (`gemini-2.5-flash`)**, and **Tavily Live Web Search**. Designed as a "Truth Layer" to audit marketing collateral, reports, and decks for outdated statistics, exaggerated figures, and hallucinated claims.
 
