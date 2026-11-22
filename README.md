@@ -15,7 +15,7 @@ An automated **Fact-Checking Web App** built with **Streamlit**, **Google Gemini
 ## 🚀 Local Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/truthlayer-fact-checker.git
+   git clone https://github.com/Vidushijain13/truthlayer-fact-checker.git
    cd truthlayer-fact-checker
    ```
 2. Install dependencies:
