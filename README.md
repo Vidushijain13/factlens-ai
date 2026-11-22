@@ -1,5 +1,9 @@
 # 🛡️ FactLens AI — Automated PDF Fact-Check Agent
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://factlens-audit.streamlit.app)
+
+**🚀 Live Demo:** [https://factlens-audit.streamlit.app](https://factlens-audit.streamlit.app)
+
 An automated **Fact-Checking Web App** built with **Streamlit**, **Google Gemini (`gemini-2.5-flash`)**, and **Tavily Live Web Search**. Designed as a "Truth Layer" to audit marketing collateral, reports, and decks for outdated statistics, exaggerated figures, and hallucinated claims.
 
 ## ✨ Key Features
